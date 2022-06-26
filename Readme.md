@@ -6,3 +6,4 @@ Here are some of the files:
 2. Week 2
     - [Advanced Commands](week2/advanced_commands.md)
     - [Revert](week2/revert.md)
+    - [Branch and Merge](week2/branch_and_merge.md)
