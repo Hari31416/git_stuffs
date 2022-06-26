@@ -12,7 +12,7 @@ ___
 
 * **git branch -d <name>**
 
-    - Deletes the given branch
+    - Deletes the branch
 
 * **git branch -D <name>**
 
