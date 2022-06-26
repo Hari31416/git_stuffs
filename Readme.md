@@ -9,4 +9,4 @@ Here are some of the files:
     - [Branch and Merge](week2/branch_and_merge.md)
 3. Week 3
     - [GitHub](week3/github.md)
-    - [Using Remote Repositories](week3/using_remote_repos.md)
+    - [Using Remote Repositories](week3/using_remote_repo.md)
