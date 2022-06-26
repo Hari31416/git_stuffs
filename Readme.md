@@ -7,3 +7,6 @@ Here are some of the files:
     - [Advanced Commands](week2/advanced_commands.md)
     - [Revert](week2/revert.md)
     - [Branch and Merge](week2/branch_and_merge.md)
+3. Week 3
+    - [GitHub](week3/github.md)
+    - [Using Remote Repositories](week3/using_remote_repos.md)
